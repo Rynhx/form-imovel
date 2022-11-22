@@ -1,0 +1,30 @@
+.label {
+    display: block;
+    border-radius: 5px;
+    padding: 10px;
+}
+#button {
+    margin-top: 20px;
+    color: azure;
+    background-color: #2196f3;
+    border-color: white;
+    font-family: auto;
+}
+
+ button {
+    
+        margin-top: 20px;
+        color: azure;
+        background-color: gray;
+        border-color: white;
+
+}
+
+#form {
+    border: 1px solid blue;
+    border-radius: 1px;
+}
+
+fieldset {
+    border-radius: 12px;
+}
